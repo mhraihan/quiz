@@ -3,7 +3,7 @@
     "description": "this is quiz application",
     "version": "1.0.0",
     "engines": {
-        "node": "17.1.0"
+        "node": "16.17.0"
     },
     "private": true,
     "scripts": {
